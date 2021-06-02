@@ -7,7 +7,7 @@ em :
 
 empregos :
   gerar :
-    roda em : ubuntu-mais recente
+    roda em : windows-mais recente
     tempo limite-minutos : 10
     passos :
       - usa : mateushenriquefonsecaxavierdasilva
