@@ -2,5 +2,4 @@
 ### Olá, eu sou Mateus Henrique. Bem-vindo(a) ao meu Git Hub.  
 - [ Youtube ](https://www.youtube.com/channel/UClAIWVdFVyuP6H3DwXmFy_g).
 - [ Instagram ](https://www.instagram.com/mateus.henrique.10/).
--! [Animação de cobra] (https://github.com/mateushenriquefonsecaxavierdasilva/mateushenriquefonsecaxavierdasilva/blob/output/github-contribution-grid-snake.svg)
-</div>
+
