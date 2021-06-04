@@ -12,7 +12,7 @@ empregos :
     passos :
       # Animação de cobra
       - usa : Platane / snk @ master
-        id : snake-gif
+        id : snake.gif
         com :
           github_user_name : mateushenriquefonsecaxavierdasilva                  
           svg_out_path : dist / github-Contribution-grid-snake.svg
