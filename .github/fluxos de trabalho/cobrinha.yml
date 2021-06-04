@@ -15,7 +15,7 @@ empregos :
         id : snake.gif
         com :
           github_user_name : mateushenriquefonsecaxavierdasilva                  
-          svg_out_path : dist / github-Contribution-grid-snake-svg
+          svg_out_path : dist / github-Contribution-grid-snake.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
         com :
