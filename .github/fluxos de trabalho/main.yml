@@ -10,10 +10,10 @@ empregos :
     roda em : ubuntu-mais recente
     tempo limite-minutos : 10
     passos :
-      - usa : lusqua / lusqua @ master
+      - usa : mateushenriquefonsecaxavierdasilva / mateushenriquefonsecaxavierdasilva  @ master
         id : snake-gif
         com :
-          github_user_name : lusqua
+          github_user_name : mateushenriquefonsecaxavierdasilva 
           svg_out_path : dist / snk_gif.svg
 
       - usa : crazy-max/ghaction-github-pages@v2.1.3
