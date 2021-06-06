@@ -10,6 +10,7 @@ empregos :
     roda em : ubuntu-mais recente
     tempo limite-minutos : 10
     passos :
+ # Animação de cobre 
       - usa : mateushenriquefonsecaxavierdasilva / mateushenriquefonsecaxavierdasilva  @ master
         id : snake-gif
         com :
