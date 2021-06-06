@@ -4,4 +4,4 @@
 - [ Instagram ](https://www.instagram.com/mateus.henrique.10/).
 - [ Facebook ](https://www.facebook.com/elias.xavier.923).
 
-![](https://raw.githubusercontent.com/mateushenriquefonsecaxavierdasilva/mateushenriquefonsecaxavierdasilva/3efcd51d5cb7020fe741a1bfd5b0ab72d817d9df/snk_gif.svg)
+! [Animação de cobra](https://raw.githubusercontent.com/mateushenriquefonsecaxavierdasilva/mateushenriquefonsecaxavierdasilva/3efcd51d5cb7020fe741a1bfd5b0ab72d817d9df/snk_gif.svg)
