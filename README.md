@@ -3,6 +3,6 @@
 - [ Youtube ](https://www.youtube.com/channel/UClAIWVdFVyuP6H3DwXmFy_g).
 - [ Instagram ](https://www.instagram.com/mateus.henrique.10/).
 - [ Facebook ](https://www.facebook.com/Mateus.henrique.010/).
-- ![Animação de cobra](https://github.com/mateushenriquefonsecaxavierdasilva/mateushenriquefonsecaxavierdasilva/blob/output/github-contribution-grid-snake.svg)
+
 
 
