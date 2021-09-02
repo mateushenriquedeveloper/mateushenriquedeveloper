@@ -9,7 +9,7 @@ name: Jobs to update datas
         with:
           USERNAME: ${{ github.repository_owner }}
 
-       Snake Animation
+      # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
