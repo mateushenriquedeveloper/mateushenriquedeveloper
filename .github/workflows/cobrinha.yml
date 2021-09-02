@@ -1,5 +1,5 @@
 name: Jobs to update datas
-    runs-on: windows-latest
+    runs-on: ubuntu-latest
     steps:
       # Summary Cards
       - uses: actions/checkout@v2
@@ -9,7 +9,7 @@ name: Jobs to update datas
         with:
           USERNAME: ${{ github.repository_owner }}
 
-      # Snake Animation
+       Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
         with:
