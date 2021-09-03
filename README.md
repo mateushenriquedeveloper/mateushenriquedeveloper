@@ -1,4 +1,4 @@
-![](https://github-readme-stats.vercel.app/api?username=mateushenriquefonsecaxavierdasilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=mateushenriquefonsecaxavierdasilva&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
 ### Olá, eu sou Mateus Henrique. Bem-vindo(a) ao meu Git Hub.  
 - [ Youtube ](https://www.youtube.com/channel/UClAIWVdFVyuP6H3DwXmFy_g).
 - [ Instagram ](https://www.instagram.com/mateus.henrique.10/).
@@ -16,7 +16,7 @@
 
   
   --------------------------------------------------------------------------------------------------------------------------------------------------
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquefonsecaxavierdasilva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquefonsecaxavierdasilva&layout=compact&langs_count=7&theme=github_dark"/>
 
 
   ---------------------------------------------------
