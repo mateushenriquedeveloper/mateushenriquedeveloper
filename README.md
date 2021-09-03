@@ -8,7 +8,7 @@
 
 <a href="https://www.youtube.com/channel/UClAIWVdFVyuP6H3DwXmFy_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/mateus.henrique.10/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+<a href="https://www.facebook.com/Mateus.henrique.010" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateushenriquefonsecaxavierdasilva&layout=compact)](https://github.com/mateushenriquefonsecaxavierdasilva/github-readme-stats)
   
   --------------------------------------------------------------------------------------------------------------------------------------------------
