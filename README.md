@@ -22,3 +22,7 @@
   ---------------------------------------------------
   
 <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt = "Mario Game" width = "980">
+  
+--------------------------------------------------------
+
+[![mateushenriquefonsecaxavierdasilva's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mateushenriquefonsecaxavierdasilva)](https://github.com/anuraghazra/github-readme-stats)
